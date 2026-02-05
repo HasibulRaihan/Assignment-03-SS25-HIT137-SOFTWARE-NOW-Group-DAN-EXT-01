@@ -4,7 +4,7 @@ import tkinter as tk
 # These are extra tools from Tkinter: 	filedialog →open awindow so you can choose a file : messagebox →shows pop‑up messages 
 from tkinter import filedialog, messagebox
 
-# This gives you nicer‑looking buttons and widgets.
+# This gives you nicer‑looking buttons and widgets..
 from tkinter import ttk
 
 # PIL (Pillow) is a library that helps your program open and display pictures : 	Image → opens the picture file : ImageTk → converts the picture so Tkinter can show it on the screen
