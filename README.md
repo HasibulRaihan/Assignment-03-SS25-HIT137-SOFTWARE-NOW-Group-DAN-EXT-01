@@ -33,9 +33,9 @@ A powerful, feature-rich desktop application for image processing and video fram
 
 ### Main Interface
 ```
-┌─────────────────────────────────────────────────────────────────┐
-│  IMAGE PROCESSOR PRO                           DAN/EXT 01        │
-│  Professional Image & Video Editing Suite                        │
+┌───────────────────────────────────────────────────────────────┐
+│  IMAGE PROCESSOR PRO                           DAN/EXT 01     │
+│  Professional Image & Video Editing Suite                     │
 ├─────────┬──────────────┬──────────────────────────────────────┤
 │ TOOLS   │    LOAD      │           WORKSPACE                  │
 │         │              │  ┌────────────┬────────────┐         │
@@ -45,9 +45,9 @@ A powerful, feature-rich desktop application for image processing and video fram
 │ Colors  │              │  │   Image    │   Image    │         │
 │ Trans.  │ SAVE         │  │            │            │         │
 │         │ Save/Save As │  └────────────┴────────────┘         │
-│         │              │                                        │
-│         │ HISTORY      │                                        │
-│         │ Undo/Redo    │                                        │
+│         │              │                                      │
+│         │ HISTORY      │                                      │
+│         │ Undo/Redo    │                                      │
 └─────────┴──────────────┴──────────────────────────────────────┘
 ```
 
